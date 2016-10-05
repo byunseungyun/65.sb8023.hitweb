@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://sb8023.hitweb.kr/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
